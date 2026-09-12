@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-wood-50: #faf7f2;
+  --color-wood-100: #f4ede2;
+  --color-wood-200: #e8d9c5;
+  --color-wood-300: #d7bfa2;
+  --color-wood-400: #c29f7b;
+  --color-wood-500: #ab825c;
+  --color-wood-600: #8b6243;
+  --color-wood-700: #6f4c34;
+  --color-wood-800: #4a3325;
+  --color-wood-900: #332219;
+
+  --color-warmWhite-100: #faf8f5;
+  --color-warmWhite-200: #f4efe8;
+  --color-warmWhite-300: #eae2d7;
+}

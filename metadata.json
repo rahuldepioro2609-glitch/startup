@@ -1,0 +1,10 @@
+{
+  "name": "Depioro.ai Autonomous AI Employee",
+  "description": "Autonomous B2B inbound receptionist, sales qualifier, and operations assistant with real-time spoken audio, appointment scheduling, and WhatsApp integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
